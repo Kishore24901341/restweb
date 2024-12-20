@@ -554,19 +554,19 @@ footer p {
 ```
 
 ## OUTPUT:
+![Screenshot 2024-12-20 115516](https://github.com/user-attachments/assets/cc28f087-946d-4d6f-8168-956627829e26)
 
-![alt text](<Screenshot 2024-12-20 115350.png>)
+![Screenshot 2024-12-20 115350](https://github.com/user-attachments/assets/8923bacf-2b21-4499-ab9c-e178693a594d)
 
-![alt text](image.png)
+![Screenshot 2024-12-20 115409](https://github.com/user-attachments/assets/ac2c53c5-1000-4525-a95c-070ac3f69d28)
 
-![alt text](image-2.png)
+![Screenshot 2024-12-20 115425](https://github.com/user-attachments/assets/6282e0f9-92e1-4d79-aa93-9102c942a7d7)
 
-![alt text](image-3.png)
+![Screenshot 2024-12-20 115439](https://github.com/user-attachments/assets/32d2adcc-f1e8-4ef4-9563-e2e6089e6469)
 
-![alt text](image-4.png)
+![Screenshot 2024-12-20 115504](https://github.com/user-attachments/assets/3f4d268a-60d9-4d79-9f6e-bd283a6bd634)
 
-![alt text](image-5.png)
+![Screenshot 2024-12-20 115526](https://github.com/user-attachments/assets/f424dc32-b2ba-49d6-9590-dbb16818cb2d)
 
-![alt text](image-6.png)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
